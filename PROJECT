@@ -1,0 +1,7 @@
+domain: kubefate.net
+repo: fate-kubernetes-operator
+resources:
+- group: webapp
+  kind: FateJob
+  version: v1
+version: "2"

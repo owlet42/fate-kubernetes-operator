@@ -1,0 +1,7 @@
+apiVersion: webapp.kubefate.net/v1
+kind: FateJob
+metadata:
+  name: fatejob-sample
+spec:
+  # Add fields here
+  foo: bar
